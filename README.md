@@ -1,6 +1,6 @@
 # 🎥 AI 요약 기능이 탑재된 유튜브 플레이어 (YouTube Player with AI Summary)
 
-> **Google Gemini 1.5 Flash AI**를 연동하여 유튜브 영상 재생과 동시에 영상의 핵심 내용을 실시간으로 요약해 주는 Flutter 모바일 애플리케이션 프로젝트입니다.
+> **Google Gemini 2.5 Flash-lite AI**를 연동하여 유튜브 영상 재생과 동시에 영상의 핵심 내용을 실시간으로 요약해 주는 Flutter 모바일 애플리케이션 프로젝트입니다.
 
 ---
 
