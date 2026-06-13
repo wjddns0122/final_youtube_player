@@ -29,7 +29,7 @@
 | 기술 분류 | 기술명 | 용도 |
 | :--- | :--- | :--- |
 | **Framework** | Flutter (Dart SDK ^3.11.5) | 크로스플랫폼 모바일 앱 개발 |
-| **Generative AI** | Google Generative AI (Gemini 1.5 Flash) | 유튜브 영상 정보(제목 및 설명) 요약 생성 |
+| **Generative AI** | Google Generative AI (Gemini 2.5 Flash-lite) | 유튜브 영상 정보(제목 및 설명) 요약 생성 |
 | **Env Management**| flutter_dotenv | API 키 등의 환경 변수 외부 관리 |
 | **Video Playback** | youtube_player_flutter | 유튜브 인앱 재생 컨트롤러 |
 
